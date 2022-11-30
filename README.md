@@ -18,6 +18,25 @@ pip install -r requirements.txt
 
 
 ## Usage
+
+Run the schedules report:
 ```sh
-python app/my_app.py
+python app/schedules.py
+```
+
+### Web App
+
+Run the web app (then view in the browser at http://localhost:5000/):
+
+```sh
+export FLASK_APP=web_app
+flask run
+```
+
+## Testing
+
+Run testing:
+
+```sh 
+pytest
 ```
