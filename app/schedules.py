@@ -6,7 +6,7 @@ url = "https://api-nba-v1.p.rapidapi.com/games"
 querystring = {"date":"2022-11-22" , "league":"standard", "season":"2022", "team":"1"}
 
 headers = {
-	"X-RapidAPI-Key": "{API_KEY}",
+	"X-RapidAPI-Key": "d7f5a3d00dmsh6e9d7042e9a3dccp163db9jsn59e8d3fd2b59",
 	"X-RapidAPI-Host": "api-nba-v1.p.rapidapi.com"
 }
 
